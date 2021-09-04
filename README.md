@@ -75,6 +75,9 @@ Transfer Function : Logsig-tansig-purelin(1 hidden layer-2nd hidden layer- outpu
 Accuracy :  Ranged between 76.02% and 84.16% <br>
 Performance Function : Mean Squared Error<br>
 
+<strong>OVERALL BEST ACCURACY: 84.16%</strong>
+
+
 ## Observations
 
 From the experiment conducted the overall accuracy level ranged from 67.05% to 84.16%, with the highest accuracy (84.16%) being attained at epoch 4 of total epochs 75; when the model was trained with two hidden layers. 
