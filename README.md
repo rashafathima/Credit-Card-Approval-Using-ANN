@@ -14,7 +14,7 @@ The purpose of this research is to examine how well neural networks can work in 
 
 ## Data
 
-<strong> Software Used</strong>
+<strong> Software Used</strong><br>
 Name : Matlab <br>
 
 <strong> Datasets </strong>
