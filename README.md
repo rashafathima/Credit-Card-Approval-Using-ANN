@@ -51,11 +51,16 @@ A14: continuous.<br>
 A15: class attribute <br>
 <br>
 
+## Missing Cases 
+
+There were a total of 37 missing cases in the datasets(5% of 690). The missing cases were replaced by the mean of the column if the column had continuous data type in the dataset and mode of the column if the column had categorical datasets.
+
 ## Model Used
 
 The application has been implemented using artificial neural networks. <br>
 A total of 10 experiments was conducted ; with 3 experiments conducted using three hidden layers and the rest 7 experiments using two hidden layers. 
 <br>
+
 <strong> Experiment Conducted using 3 Hidden Layers</strong><br>
 Training Algorithm : trainlm
 <br>
