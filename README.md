@@ -9,4 +9,12 @@ For many years banks used credit scoring techniques to determine which loan appl
 
 ## Case Study
 
-The purpose of this research is to examine how well neural networks can work in providing accurate and reliable results for credit card approval.
+The purpose of this research is to examine how well neural networks can work in providing accurate and reliable results for credit card approval. Using NN for credit scoring is actually utilizing a model or a method for evaluating the variables in order to kmow the credit worthiness of the applicant. Through this research we are trying to find to what level of accuracy NN can be used as a tool for credit card approvals in banks. 
+
+
+## Data
+
+<strong> Datasets </strong>
+
+Name : Australian Credit Card Approval
+Resource : <a href = "http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)">http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)</a>
