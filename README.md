@@ -14,6 +14,9 @@ The purpose of this research is to examine how well neural networks can work in 
 
 ## Data
 
+<strong> Software Used</strong>
+Name : Matlab <br>
+
 <strong> Datasets </strong>
 
 Name : Australian Credit Card Approval <br>
