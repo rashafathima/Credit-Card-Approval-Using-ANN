@@ -66,10 +66,16 @@ Training Algorithm : trainlm
 <br>
 Transfer Function : Logsig-tansig-tansig-purelin(1 hidden layer-2nd hidden layer-3 hidden layer- output layer)<br>
 Accuracy :  Ranged between 67.05% and 83.72% <br>
+Performance Function : Mean Squared Error<br>
 
 <strong> Experiment Conducted using 2 Hidden Layers</strong><br>
 Training Algorithm : trainlm(5 experiments) and traingd(2 experiments)
 <br>
 Transfer Function : Logsig-tansig-purelin(1 hidden layer-2nd hidden layer- output layer)<br>
-Accuracy :  Ranged between 67.05% and 83.72% <br>
+Accuracy :  Ranged between 76.02% and 84.16% <br>
+Performance Function : Mean Squared Error<br>
+
+## Observations
+
+From the experiment conducted the overall accuracy level ranged from 67.05% to 84.16%, with the highest accuracy (84.16%) being attained at epoch 4 of total epochs 75; when the model was trained with two hidden layers. 
 
