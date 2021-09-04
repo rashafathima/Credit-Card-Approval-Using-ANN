@@ -14,10 +14,39 @@ The purpose of this research is to examine how well neural networks can work in 
 
 ## Data
 
-<strong> Software Used</strong><br>
+### Note : The dataset concerns credit card applications. All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
+
+<strong> Software Used</strong>
+
 Name : Matlab <br>
 
 <strong> Datasets </strong>
 
 Name : Australian Credit Card Approval <br>
-Resource : <a href = "http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)">http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)</a>
+Resource : <a href = "http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)">http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)</a><br>
+
+<strong>Instances </strong>
+
+Total : 690
+
+<strong> Attributes </strong> 
+
+Total :  15 <br> 
+Input :  14 (8 categorical and 6 numerical: A1 - A14) <br>
+Target : 1 Class Attribute (A15) <br><br><br>
+A1: CATEGORICAL <br>
+A2: continuous <br>
+A3: continuous <br>
+A4: CATEGORICAL <br>
+A5: CATEGORICAL <br>
+A6: CATEGORICAL <br>
+A7: continuous.<br>
+A8: CATEGORICAL <br>
+A9: CATEGORICAL <br>
+A10: continuous.<br>
+A11: CATEGORICAL <br>
+A12: CATEGORICAL <br>
+A13: continuous.<br>
+A14: continuous.<br>
+A15: class attribute <br>
+
