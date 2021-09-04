@@ -16,20 +16,20 @@ The purpose of this research is to examine how well neural networks can work in 
 
 ### Note : The dataset concerns credit card applications. All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data.
 
-<strong> Software Used</strong>
+### Software Used
 
 Name : Matlab <br>
 
-<strong> Datasets </strong>
+### Datasets 
 
 Name : Australian Credit Card Approval <br>
 Resource : <a href = "http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)">http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)</a><br>
 
-<strong>Instances </strong>
+### Instances 
 
 Total : 690
 
-<strong> Attributes </strong> 
+### Attributes 
 
 Total :  15 <br> 
 Input :  14 (8 categorical and 6 numerical: A1 - A14) <br>
