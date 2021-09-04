@@ -49,4 +49,22 @@ A12: CATEGORICAL <br>
 A13: continuous.<br>
 A14: continuous.<br>
 A15: class attribute <br>
+<br>
+
+## Model Used
+
+The application has been implemented using artificial neural networks. <br>
+A total of 10 experiments was conducted ; with 3 experiments conducted using three hidden layers and the rest 7 experiments using two hidden layers. 
+<br>
+<strong> Experiment Conducted using 3 Hidden Layers</strong><br>
+Training Algorithm : trainlm
+<br>
+Transfer Function : Logsig-tansig-tansig-purelin(1 hidden layer-2nd hidden layer-3 hidden layer- output layer)<br>
+Accuracy :  Ranged between 67.05% and 83.72% <br>
+
+<strong> Experiment Conducted using 2 Hidden Layers</strong><br>
+Training Algorithm : trainlm(5 experiments) and traingd(2 experiments)
+<br>
+Transfer Function : Logsig-tansig-purelin(1 hidden layer-2nd hidden layer- output layer)<br>
+Accuracy :  Ranged between 67.05% and 83.72% <br>
 
