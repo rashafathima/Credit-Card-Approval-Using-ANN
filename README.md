@@ -16,5 +16,5 @@ The purpose of this research is to examine how well neural networks can work in 
 
 <strong> Datasets </strong>
 
-Name : Australian Credit Card Approval
+Name : Australian Credit Card Approval <br>
 Resource : <a href = "http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)">http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)</a>
